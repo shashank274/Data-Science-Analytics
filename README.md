@@ -1,9 +1,9 @@
 # Data-Science-Analytics
-Overview
+<h2>Overview</h2>
 <br>
 This project focuses on customer segmentation and market basket analysis for a retail dataset, aimed at optimizing marketing strategies such as Cross-Sell and Up-Sell. It applies various clustering techniques and association rule mining to identify key customer groups and their purchasing behavior. The analysis provides insights to help target the top products per customer segment, improving sales strategies.
 <br>
-Key Features
+<h2>Key Features</h2>
 <br><br>
 Customer Segmentation: Using RFM (Recency, Frequency, Monetary) analysis and clustering (KMeans) to group customers.
 <br>
