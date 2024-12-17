@@ -15,4 +15,17 @@ Insights for Marketing Strategies: Tailored recommendations for cross-sell and u
 
 <br>
 
+![Screenshot 2024-12-17 091441](https://github.com/user-attachments/assets/59de6e86-2963-454a-a7ef-675adf1e1631)
+<br>
+![Screenshot 2024-08-22 222410](https://github.com/user-attachments/assets/0600744e-0e9f-4a13-b356-69650b32589a)
+<br>
+<img width="643" alt="PCAvsualizationofclusters" src="https://github.com/user-attachments/assets/93f09a4a-2caa-48de-b5de-3f25b9001d5e" />
+<br>
+![Screenshot 2024-08-22 222502](https://github.com/user-attachments/assets/f9029f59-f16a-4d84-8df2-0ed78f495845)
+
+
+
+
+
+
 
