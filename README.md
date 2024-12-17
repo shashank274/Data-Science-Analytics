@@ -14,5 +14,5 @@ Data Visualization: Interactive plots showcasing top products and segment metric
 Insights for Marketing Strategies: Tailored recommendations for cross-sell and up-sell opportunities based on customer segments.
 
 <br>
-![image](https://github.com/user-attachments/assets/86ad2d43-ee32-4660-90d8-0ad6aa2e188d)
+
 
